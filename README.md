@@ -146,7 +146,7 @@ Open index.html using live server extension.
 >Coming soon
 
 ### Deployment
-
+>Coming soon.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
